@@ -1,7 +1,7 @@
 import React from "react";
 import greenImg from "../assets/Ellipse.png";
 import orangeImg from "../assets/Ellipse2.png";
-import vector4 from "../assets/vector4.png";
+import vector4 from "../assets/Vector4.png";
 
 const Customer_Support = ({ support_Card, onStatusChange }) => {
   const handleClick = () => {
