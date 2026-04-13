@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1001,
+    "title": "Login issue",
+    "description": "Customer reports being unable to log in to their account despite entering the correct credentials. The issue started after the last app update.",
+    "customer": "John Doe",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "1/10/2025"
+  },
+  {
+    "id": 1002,
+    "title": "Payment failed",
+    "description": "User encountered a payment failure during checkout. The card was charged but no confirmation was received. Needs investigation with the payment gateway.",
+    "customer": "Alice Smith",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2/10/2025"
+  },
+  {
+    "id": 1003,
+    "title": "Password reset",
+    "description": "Customer forgot their password and is unable to reset it. The reset link sent via email shows an expired token error.",
+    "customer": "Bob Johnson",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "3/10/2025"
+  },
+  {
+    "id": 1004,
+    "title": "App crash",
+    "description": "The mobile app crashes immediately after opening the settings page. Customer has tried reinstalling but the issue persists.",
+    "customer": "Charlie Lee",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "4/10/2025"
+  },
+  {
+    "id": 1005,
+    "title": "Incorrect invoice",
+    "description": "Customer reports that their invoice amount is higher than the order total. The tax calculation appears to be duplicated on the summary page.",
+    "customer": "Emma Davis",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "5/10/2025"
+  },
+  {
+    "id": 1006,
+    "title": "Feature request",
+    "description": "User has requested the addition of a dark mode option for better accessibility during nighttime use.",
+    "customer": "Frank Miller",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "6/10/2025"
+  },
+  {
+    "id": 1007,
+    "title": "Email not received",
+    "description": "Customer didn’t receive the account confirmation email even after multiple attempts. They’ve checked the spam folder as well.",
+    "customer": "Grace Wilson",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "7/10/2025"
+  },
+  {
+    "id": 1008,
+    "title": "UI glitch on homepage",
+    "description": "Customer noticed that some buttons overlap text on smaller screens. The issue is affecting mobile users primarily.",
+    "customer": "Henry Brown",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "8/10/2025"
+  },
+  {
+    "id": 1009,
+    "title": "Shipping delay",
+    "description": "Order has not been delivered even after the expected delivery date. Customer requests tracking updates and escalation.",
+    "customer": "Ivy Clark",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "9/10/2025"
+  },
+  {
+    "id": 1010,
+    "title": "App running slow",
+    "description": "Customer complains that the app performance is very slow during login and data sync. Possible server latency issue.",
+    "customer": "Jack Lewis",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "10/10/2025"
+  },
+  {
+    "id": 1011,
+    "title": "Wrong product delivered",
+    "description": "Customer received an incorrect product variant and has requested a replacement or refund as soon as possible.",
+    "customer": "Karen Thomas",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "11/10/2025"
+  },
+  {
+    "id": 1012,
+    "title": "Subscription renewal issue",
+    "description": "Customer’s auto-renewal for the premium plan failed due to an unknown billing error. Payment method seems valid.",
+    "customer": "Leo Martinez",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "12/10/2025"
+  },
+  {
+    "id": 1013,
+    "title": "Notification not working",
+    "description": "Push notifications are not showing up for new messages or updates. The issue started after the last update release.",
+    "customer": "Mia Robinson",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "13/10/2025"
+  },
+  {
+    "id": 1014,
+    "title": "Refund request",
+    "description": "Customer wants to initiate a refund for a recently canceled order. They mentioned being charged twice for the same transaction.",
+    "customer": "Nathan Scott",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "14/10/2025"
+  }
+]
